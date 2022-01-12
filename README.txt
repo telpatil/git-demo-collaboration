@@ -4,6 +4,8 @@ This is the first file in this repository
 
 ##Ipsum below
 
-Whatever you want to type, type here, else why are you here again?
+Well, add here
 
-Added more stuff, because I have to learn this stuff, you know, stuff...
+or here
+
+Whatever you want to type, type here, else why are you here again?
