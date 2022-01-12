@@ -2,10 +2,7 @@
 
 This is the first file in this repository
 
-##Ipsum below
+##Website content
 
-Well, add here
-
-or here
-
-Whatever you want to type, type here, else why are you here again?
+Files in the website would be:
+1. INDEX.html
